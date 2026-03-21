@@ -7,7 +7,3 @@ package.json
 
 /public
 
-tegiverse/
- ├── app.py
- ├── requirements.txt
- └── README.md
