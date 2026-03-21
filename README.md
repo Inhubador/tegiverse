@@ -6,3 +6,8 @@ package.json
 /src
 
 /public
+
+tegiverse/
+ ├── app.py
+ ├── requirements.txt
+ └── README.md
